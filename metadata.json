@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix BACS AI",
+  "description": "AI consultant that diagnoses business problems and provides strategic growth recommendations using structured intelligence and adaptive user interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
