@@ -1,0 +1,14 @@
+[
+  {
+    "businessId": "biz_seed_1",
+    "generatedAt": "2026-07-30T08:00:00.000Z",
+    "executiveSummary": "Based on 4 verified facts, BACS has moderate confidence that Seed Idea Co has validated customer pain but requires stronger pricing and acquisition evidence before launch.",
+    "notes": "This is a sample Executive Diagnostic used for local testing. Diagnostics are computed on demand and not stored as authoritative by BACS.",
+    "sampleVariables": {
+      "Motivation": { "evidenceStrength": "Medium", "percent": 67 },
+      "Ability": { "evidenceStrength": "Low", "percent": 30 },
+      "Concept": { "evidenceStrength": "Medium", "percent": 50 },
+      "Sales": { "evidenceStrength": "Low", "percent": 25 }
+    }
+  }
+]

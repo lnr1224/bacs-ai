@@ -1,0 +1,62 @@
+[
+  {
+    "id": "node-biz-1",
+    "businessId": "biz_seed_1",
+    "type": "BusinessProfile",
+    "canonical": { "name": "Seed Idea Co", "industry": "Retail", "stage": "idea" },
+    "evidenceIds": [],
+    "createdAt": "2026-07-30T08:00:00.000Z",
+    "lastUpdated": "2026-07-30T08:00:00.000Z",
+    "status": "Active"
+  },
+  {
+    "id": "node-cust-1",
+    "businessId": "biz_seed_1",
+    "type": "CustomerSegment",
+    "canonical": { "name": "Working mothers in Lagos", "ageRange": "25-40" },
+    "evidenceIds": ["evi-seed-3"],
+    "createdAt": "2026-07-30T08:00:00.000Z",
+    "lastUpdated": "2026-07-30T08:00:00.000Z",
+    "status": "Active"
+  },
+  {
+    "id": "node-pain-1",
+    "businessId": "biz_seed_1",
+    "type": "PainPoint",
+    "canonical": { "description": "Long queues and time cost to purchase baby supplies", "severity": "High" },
+    "evidenceIds": ["evi-seed-6"],
+    "createdAt": "2026-07-30T08:00:00.000Z",
+    "lastUpdated": "2026-07-30T08:00:00.000Z",
+    "status": "Active"
+  },
+  {
+    "id": "node-competitor-1",
+    "businessId": "biz_seed_1",
+    "type": "Competitor",
+    "canonical": { "name": "LocalVendorX", "notes": "Physical retail competitor" },
+    "evidenceIds": ["evi-seed-4"],
+    "createdAt": "2026-07-30T08:00:00.000Z",
+    "lastUpdated": "2026-07-30T08:00:00.000Z",
+    "status": "Active"
+  },
+  {
+    "id": "node-competitor-2",
+    "businessId": "biz_seed_1",
+    "type": "Competitor",
+    "canonical": { "name": "WhatsAppSellers", "notes": "Social/WhatsApp sellers" },
+    "evidenceIds": ["evi-seed-5"],
+    "createdAt": "2026-07-30T08:00:00.000Z",
+    "lastUpdated": "2026-07-30T08:00:00.000Z",
+    "status": "Active"
+  },
+  {
+    "id": "node-pricing-1",
+    "businessId": "biz_seed_1",
+    "type": "PricingPoint",
+    "canonical": { "price": 5000, "currency": "NGN", "notes": "Validated by 3 interviews" },
+    "evidenceIds": ["evi-seed-2"],
+    "createdAt": "2026-07-30T08:00:00.000Z",
+    "lastUpdated": "2026-07-30T08:00:00.000Z",
+    "status": "Active"
+  }
+]
